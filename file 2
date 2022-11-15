@@ -1,0 +1,6 @@
+var num=[2,4,3,5]
+var num2=['sneha','latha','besta']
+num=num.concat(num2)
+console.log(num)
+
+

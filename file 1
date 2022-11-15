@@ -1,0 +1,11 @@
+function get(arr){
+    let arr1=[ ];
+    for(let i of arr){
+        if(Arr1.indexOf(i)==-1){
+            Arr1.push(i);
+        }
+    }
+    console.log(Arr1);
+}
+const array=[1,2,,3,4,5,1,1,2,3,4]
+get(array)
